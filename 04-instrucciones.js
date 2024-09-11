@@ -60,7 +60,7 @@ const datos = () => {
 const persona ={
  nombre,null
     edad,null
-    'Sexo',null
+    '       Sexo',null
 }
 
 persona,{direccion}

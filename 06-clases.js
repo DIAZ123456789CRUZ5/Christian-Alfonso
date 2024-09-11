@@ -25,3 +25,5 @@ let persona1=new Persona("christian",19,"M","Balancan");
 persona1.nombre="cj";
 console.log(set);
 persona1.saludar();
+
+
