@@ -26,3 +26,4 @@ empleado1.calcularSueldo(true);
 console.log(empleado1._sueldo)
 
 
+// perdon por tan poco :(
