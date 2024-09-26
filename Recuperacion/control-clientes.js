@@ -134,7 +134,7 @@ class cine extends cliente {
                 peliEncontrada.disponibilidad='Rentada';
                 peliEncontrada.fechaRenta = fechaRenta;
                 peliEncontrada.fechaLime=fechaLime;
-                console.log(`La pelicula ${titulo} ha sido rentada`);
+                console.log(`La pelicula ${titulo} ha sido rentada`);               
                 console.log(`Fecha de devolucion ${peliEncontrada.fechaRenta}`);
                 console.log(`El precio es de $${this._precioPeli}`);
             }
