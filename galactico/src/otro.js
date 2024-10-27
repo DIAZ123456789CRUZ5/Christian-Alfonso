@@ -8,4 +8,3 @@ function Otro(){
 
 export default Otro
 
-//rfc
